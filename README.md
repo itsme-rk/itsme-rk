@@ -41,9 +41,9 @@ I am currently a Computer Science Engineering student in my 5th semester at Atri
 - **Project 2:** [Project Name](link to project) - Short description
 
 ## Contact Me
-- **GitHub:** [Karthik R](https://github.com/itsme-rk)
-- **LinkedIn:** [Karthik R](https://www.linkedin.com/in/karthik-r-171927213/)
-- **Email:** [your-email@example.com](mailto:your-karthikramesh1813@gmail.com)
+- **GitHub:** [GitHub](https://github.com/itsme-rk)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/karthik-r-171927213/)
+- **Email:** [Email](mailto:your-karthikramesh1813@gmail.com)
 
 ## Let's Connect!
 Feel free to reach out to me for collaborations, projects, or just to say hi!
