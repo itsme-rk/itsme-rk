@@ -37,8 +37,10 @@ I am currently a Computer Science Engineering student in my 5th semester at Atri
 - **Tools:** Visual Studio Code, PyCharm, Jupyter Notebook, Git, GitHub
 
 ## Projects
-- **Project 1:** [Project Name](link to project) - Short description
-- **Project 2:** [Project Name](link to project) - Short description
+- **Project 1:** [Tinny Paws] - A one stop platform for pet owers to satisfy all the needs of their beloved pets.
+- **Project 2:** [OnlyX Gym]- A ful Stack Gym Website project.
+- **Project 3:** [Credit Card Fraud Detection]
+- 
 
 ## Contact Me
 - **GitHub:** [GitHub](https://github.com/itsme-rk)
