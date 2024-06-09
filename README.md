@@ -1,4 +1,5 @@
-# Hi folks, I'm Karthik R ![waving hand](https://media.giphy.com/media/xUOxf54shCTpwfGU4U/giphy.gif)
+# Hi folks, I'm Karthik R ![waving hand](![MelRibeiro - Overview](https://github.com/itsme-rk/itsme-rk/assets/107808330/57fe2d80-8e60-4548-9dd3-8927afbf9d93)
+)
 
 
 <!--
