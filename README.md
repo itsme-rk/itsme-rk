@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/itsme-rk/itsme-rk/assets/107808330/57fe2d80-8e60-4548-9dd3-8927afbf9d93" alt="waving hand" style="height: 100px; width: auto;" />
-</p>
+
 
 # Hi folks, I'm Karthik R 
 
