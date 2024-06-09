@@ -1,4 +1,5 @@
-## KARTHIK R
+# Hi folks, I'm Karthik R ![waving hand](https://media.giphy.com/media/xUOxf54shCTpwfGU4U/giphy.gif)
+
 
 <!--
 **itsme-rk/itsme-rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
