@@ -1,4 +1,4 @@
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://pin.it/5ovS6ymcH))
 
 # Karthik R 
 
