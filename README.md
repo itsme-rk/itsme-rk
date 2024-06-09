@@ -1,6 +1,6 @@
 
 
-# Hi folks, I'm Karthik R 
+## Karthik R 
 
 
 <!--
