@@ -38,10 +38,10 @@ I am currently a Computer Science Engineering student in my 5th semester at Atri
 
 
 ## Skills
-- **Programming Languages:** Python, Java, C++
-- **Web Development:** HTML, CSS, JavaScript, Flask
+- **Programming Languages:** Python, Java
+- **Web Development:** HTML, CSS, JavaScript, Django
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-Learn, TensorFlow
+- **Machine Learning:** Scikit-Learn
 - **Tools:** Visual Studio Code, PyCharm, Jupyter Notebook, Git, GitHub
 
 ## Projects
