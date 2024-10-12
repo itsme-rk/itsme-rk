@@ -5,8 +5,6 @@
 
 # Karthik R 
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itsme-rk/itsme-rk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
 
 <!--
 **itsme-rk/itsme-rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 🔭 **Aspiring Data Scientist and AIML Enthusiast**
 
 ## About Me
-I am currently a Computer Science Engineering student in my 5th semester at Atria Institute of Technology. I am passionate about coding, software development, and continuous learning. My interests lie in the fields of Machine Learning, Data Science, and Web Development.
+I am currently a Computer Science Engineering student in my 7th semester at Atria Institute of Technology. I am passionate about coding, software development, and continuous learning. My interests lie in the fields of Machine Learning, Data Science, and Web Development.
 
 ## Education
 | S.No | Institution          | Degree                             | Marks | Year                   |
