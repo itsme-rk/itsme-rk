@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|| Undergraduate Student || Bangalore, Karnataka ||
+|| Python Developer || Bangalore, Karnataka ||
 
-🔭 **Aspiring Data Scientist and AIML Enthusiast**
+🔭 **Aspiring Python Fullstack Developer and AIML Enthusiast**
 
 ## About Me
 I am currently a Computer Science Engineering student in my 7th semester at Atria Institute of Technology. I am passionate about coding, software development, and continuous learning. My interests lie in the fields of Machine Learning, Data Science, and Web Development.
@@ -30,14 +30,14 @@ I am currently a Computer Science Engineering student in my 7th semester at Atri
 ## Education
 | S.No | Institution          | Degree                             | Marks | Year                   |
 |------|----------------------|------------------------------------|-------|------------------------|
-| 1    | Atria Institute of Technology | Bachelor of Engineering in Computer Science | 8.2 CGPA | DEC 2021 - Present     |
+| 1    | Atria Institute of Technology | Bachelor of Engineering in Computer Science | 8.61 CGPA |  2021 - 2025     |
 | 2    | MES Vidyasagar Prof. MPL Sastry PU College   | PUC           | 86%   | Apr 2020 - July 2021   |
 | 3    | Sadashivanagar High School   | Class - 10 : State Board          | 89.4% | Mar 2018 - July 2019   |
 
 
 ## Skills
 - **Programming Languages:** Python, Java
-- **Web Development:** HTML, CSS, JavaScript, Django
+- **Web Development:** HTML, CSS, JavaScript, Django, ReactJS, Django Rest Framework
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-Learn
 - **Tools:** Visual Studio Code, PyCharm, Jupyter Notebook, Git, GitHub
@@ -45,7 +45,7 @@ I am currently a Computer Science Engineering student in my 7th semester at Atri
 ## Projects
 - **Project 1:** [Tinny Paws] - A one stop platform for pet owers to satisfy all the needs of their beloved pets.
 - **Project 2:** [OnlyX Gym]- A ful Stack Gym Website project.
-- **Project 3:** [Credit Card Fraud Detection]
+- **Project 3:** Real Time Chat App - Python-React Full stack web app
   
 
 ## Contact Me
